@@ -8,9 +8,9 @@ Previously at **Checkout.com** - cloud platform, infrastructure, and security ac
 
 #### What I'm building
 
-**[tripkalc](https://tripkalc.com)** - Free multi-stop route planner with fuel cost calculator. Worldwide coverage, 70+ currencies, no registration required.
+**[tripkalc](https://tripkalc.com)** - Free multi-stop route planner with fuel cost calculator. Worldwide coverage, 70+ currencies, no registration required. [Read the whitepaper](https://tripkalc.com/whitepaper)
 
-[Read the whitepaper](https://tripkalc.com/whitepaper)
+**[tor-pipeline](https://github.com/taranveer-tengurchittoo/tor-pipeline)** - Privacy-first distributed scraping toolkit over Tor. Stealth browser, Cloudflare Turnstile bypass, parallel workers with checkpoint-based resume, network interception via fetch/XHR monkey-patching. Built for scraping tens of thousands of records from sites with aggressive bot protection.
 
 ---
 
