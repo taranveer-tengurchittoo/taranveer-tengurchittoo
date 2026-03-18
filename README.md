@@ -20,8 +20,8 @@ Previously at **Checkout.com** - cloud platform, infrastructure, and security ac
 | Project | PR | Finding | Status |
 |---------|----|---------|---------|
 
-| [mauritius-emergency-services](https://github.com/mervinhemaraju/mauritius-emergency-services) | [#3](https://github.com/mervinhemaraju/mauritius-emergency-services/pull/3) | Remove disabled SSL certificate validation | ![open](https://img.shields.io/badge/open-238636?style=flat-square) |
-| [mauritius-emergency-services](https://github.com/mervinhemaraju/mauritius-emergency-services) | [#4](https://github.com/mervinhemaraju/mauritius-emergency-services/pull/4) | Sanitize phone numbers in tel: URIs | ![open](https://img.shields.io/badge/open-238636?style=flat-square) |
+| [mauritius-emergency-services](https://github.com/mervinhemaraju/mauritius-emergency-services) | [#3](https://github.com/mervinhemaraju/mauritius-emergency-services/pull/3) | Remove disabled SSL certificate validation | ![merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
+| [mauritius-emergency-services](https://github.com/mervinhemaraju/mauritius-emergency-services) | [#4](https://github.com/mervinhemaraju/mauritius-emergency-services/pull/4) | Sanitize phone numbers in tel: URIs | ![merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
 | [lazywarden](https://github.com/querylab/lazywarden) | [#47](https://github.com/querylab/lazywarden/pull/47) | Prevent vault password exposure via /proc and logs | ![open](https://img.shields.io/badge/open-238636?style=flat-square) |
 <!-- SECURITY_CONTRIBUTIONS_END -->
 
