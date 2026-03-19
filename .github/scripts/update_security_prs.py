@@ -48,7 +48,7 @@ def badge(status: str) -> str:
 def build_table(rows: list[tuple[str, int, str, str, str]]) -> str:
     lines = [
         "| Project | PR | Finding | Status |",
-        "|---------|----|---------|---------|\n",
+        "|---------|----|---------|---------|",
     ]
     for repo, number, desc, url, status in rows:
         project = repo.split("/")[1]
