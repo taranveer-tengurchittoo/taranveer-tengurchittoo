@@ -10,6 +10,7 @@ PRS = [
     ("mervinhemaraju/mauritius-emergency-services", 3, "Remove disabled SSL certificate validation"),
     ("mervinhemaraju/mauritius-emergency-services", 4, "Sanitize phone numbers in tel: URIs"),
     ("querylab/lazywarden", 47, "Prevent vault password exposure via /proc and logs"),
+    ("ckreiling/mcp-server-docker", 49, "Block container escape via runtime socket and /proc volume mounts"),
 ]
 
 STATUS_ICONS = {
